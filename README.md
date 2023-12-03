@@ -1,6 +1,12 @@
 # News
 সংগ্রহ: H.M. Mustakim Billah Ridoy
 
+News of the World
+HD. Tom Hanks portrays a grizzled Civil War veteran tasked with returning a young girl to her only remaining family.
+Available to rent or buy
+Details:
+https://amzn.to/3T36e4p
+
 নভেম্বর ২০২৩-এর সেরা খবরের শিরোনামগুলো:
 
 ১ নভেম্বর, ২০২৩: প্রথম বিদেশিরা গাজা থেকে মিশরের রাফাহ সীমান্ত দিয়ে বের হলেন।
