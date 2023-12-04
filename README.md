@@ -1,9 +1,9 @@
 # News
 সংগ্রহ: H.M. Mustakim Billah Ridoy
 
-$
+```
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=applicatio0c9-20&language=en_US&marketplace=amazon&region=US&placement=B096YN9YTX&asins=B096YN9YTX&linkId=c156f68f62421148ae0f5fc46e8d498c&show_border=true&link_opens_in_new_window=true"></iframe>
-$
+```
 
 News of the World
 HD. Tom Hanks portrays a grizzled Civil War veteran tasked with returning a young girl to her only remaining family.
